@@ -618,13 +618,14 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/5-30.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dsc06917.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title1": "Bootstrap 4",
